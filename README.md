@@ -1,6 +1,6 @@
 # All Restaurants in Oregon, US
 
-> Free BeamStation sample export with 933 rows and masked direct-contact fields.
+> Free BeamStation sample export with 831 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `620166` |
 | Location | Oregon |
 | Category | Restaurants |
-| Full dataset size | 9,333 records |
-| Free sample size | 933 records (10.0%) |
-| Last export | 2026-04-14T20:23:18.049870+00:00 |
+| Full dataset size | 8,316 records |
+| Free sample size | 831 records (9.99%) |
+| Last export | 2026-04-21T22:36:15.401029+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-oregon-us-sample-620166/releases/download/sample-latest/beamstation_620166_restaurants-us-or_SAMPLE_DIST.csv) |
 
 ## What is in this sample
