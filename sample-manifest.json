@@ -1,12 +1,12 @@
 {
-  "export_job_id": "b1876023-1831-48ce-ba34-f27b82a2c8bd",
+  "export_job_id": "00634907-2b0c-4b6c-ad1d-d3acbee04a46",
   "id_short": 620166,
-  "published_at": "2026-04-18T19:32:42Z",
+  "published_at": "2026-04-22T07:46:08Z",
   "repo_name": "all-restaurants-in-oregon-us-sample-620166",
   "sample_asset_name": "beamstation_620166_restaurants-us-or_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/620166/beamstation_620166_restaurants-us-or_SAMPLE_DIST.csv",
-  "sample_records": 933,
-  "sample_sha256": "467d2f9bdc074f920282489293264bbfb3d6ba082dce1922b892d6a6ff179b80",
-  "sample_size_bytes": 2483607,
-  "total_records": 9333
+  "sample_records": 831,
+  "sample_sha256": "0a995ec537b80ec29735784794d7478b4cae1e66774a591713dbae325ae06593",
+  "sample_size_bytes": 2470236,
+  "total_records": 8316
 }
