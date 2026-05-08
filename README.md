@@ -9,9 +9,9 @@
 | Dataset ID | `620166` |
 | Location | Oregon |
 | Category | Restaurants |
-| Full dataset size | 10,899 records |
-| Free sample size | 1,000 records (9.18%) |
-| Last export | 2026-04-29T01:48:47.596585+00:00 |
+| Full dataset size | 11,705 records |
+| Free sample size | 1,000 records (8.54%) |
+| Last export | 2026-05-08T11:11:02.735375+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-oregon-us-sample-620166/releases/download/sample-latest/beamstation_620166_restaurants-us-or_SAMPLE_DIST.csv) |
 
 ## What is in this sample
